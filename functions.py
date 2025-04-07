@@ -1,6 +1,6 @@
 # ******************* FILE PATH ***********************************
 
-FILEPATH = r"C:\Users\User\Documents\python\PyCharnProjects\todo_app\todos.txt"
+FILEPATH = r"todos.txt"
 
 # ******************* functions ***********************************
 def get_todos(filepath_local=FILEPATH):
